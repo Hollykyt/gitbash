@@ -1,9 +1,5 @@
 # motor_demo_int
 
-sssssssss
+это проект на Iskra Neo и TimerOne....
 
-ddddddddd
-
-sssssssss
-
-ddddddddd
+Его можно осуществлять на базовых знаниях
